@@ -1,0 +1,10 @@
+body {
+   font-family: Roboto;
+}
+
+.title {
+   font-family: PT Serif;
+}
+ button {
+   font-family: inherit;
+ }
