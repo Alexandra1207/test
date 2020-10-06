@@ -2,10 +2,15 @@ body {
    font-family: Roboto;
 }
 
-.title {
-   font-family: PT Serif;
+.logo {
+  font-family: PT Serif;
 }
- button {
-   font-family: inherit;
- }
+
+.main-content__title {
+  font-family: PT Serif;
+}
+
+.main-content__button {
+  font-family: Roboto;
+}
 /*
