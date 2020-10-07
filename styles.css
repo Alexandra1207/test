@@ -6,6 +6,10 @@ body {
   font-family: PT Serif;
 }
 
+.menu__item_active {
+  border-bottom: blue;
+}
+
 .main-content__title {
   font-family: PT Serif;
 }
